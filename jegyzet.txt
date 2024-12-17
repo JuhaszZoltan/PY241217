@@ -1,0 +1,13 @@
+nevezetes algoritmusok/programozási tételek (P I.)
+
+- sorozatszámítás (összegzés):
+- megszámlálás
+- szélsőérték meghatározás
+
+- lineáris keresés
+- kiválasztás
+- eldöntés
+
+- kiválogatás
+
+https://info.nytta.hu/temak/prog/Programozasi_tetelek.pdf
